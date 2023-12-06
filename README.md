@@ -1,3 +1,7 @@
+# IMPORTANT NOTE:
+
+MAKE SURE YOU ADD YOUR TMDB ACCOUNT AND BEARER TOKEN IN YOUR OWN ".env" FILE
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
